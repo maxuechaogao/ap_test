@@ -1,0 +1,8 @@
+Output/*
+Output
+.idea
+src/*/*.pyc
+*.pyc
+src/conf/*.yml
+*.DS_Store
+*/*.DS_Store
