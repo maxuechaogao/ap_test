@@ -5,17 +5,14 @@
 注意：开始运行本框架之前，请先在设备端运行测试测试工具。
 
 ### 依赖库：
+    pyyaml
+    requests	
 
-~~~Python
-pyyaml
-requests	
-~~~
 
 ### 文件夹说明：
-
-src  源码路径
-
- 	conf  ：代码中配置文件路径
+output： 所有框架产生的数据存放路径
+src：  源码路径
+    conf  ：代码中配置文件路径
 
 ​		romd： 入参、期望值  用例汇总
 
